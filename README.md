@@ -4,7 +4,7 @@
 
 **[下载 v1.0.0 游戏包与完整源码](https://github.com/kongsora06/corner-cat/releases/tag/v1.0.0)**
 
-适用于 **Apple Silicon Mac / macOS 14+**。下载 Release 中的 `角落有喵-macOS.zip`，解压后将应用放入“应用程序”运行。本构建使用本地 ad-hoc 签名，未做 Developer ID 公证。
+适用于 **Apple Silicon Mac / macOS 14+**。下载 Release 中的 `CornerCat-v1.0.0-macOS-arm64.zip`，解压后将应用放入“应用程序”运行。本构建使用本地 ad-hoc 签名，未做 Developer ID 公证。
 
 源码、原创素材、构建脚本和测试均保存在本仓库，原始交付的两个 ZIP 及预览图保存在 Release。`RELEASE_SHA256SUMS.txt` 记录原始交付文件的 SHA-256，便于下载后校验。
 
@@ -14,7 +14,7 @@
 
 ## 打开
 
-解压 **角落有喵-macOS.zip**，将 **角落有喵.app** 拖到“应用程序”文件夹，再双击打开。适用于 **Apple Silicon Mac，macOS 14 或更新版本**，不需要安装额外运行环境。
+解压 Release 中的 **CornerCat-v1.0.0-macOS-arm64.zip**，将 **角落有喵.app** 拖到“应用程序”文件夹，再双击打开。适用于 **Apple Silicon Mac，macOS 14 或更新版本**，不需要安装额外运行环境。
 
 第一次打开会出现小屋，之后会记住上一次的显示模式和窗口位置。应用常驻菜单栏，不占 Dock 图标。左键点击菜单栏爪印显示/隐藏，右键可以切换模式或退出。
 
